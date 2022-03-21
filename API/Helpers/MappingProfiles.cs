@@ -1,4 +1,4 @@
-using API.Data.Entities;
+using API.Entities;
 using AutoMapper;
 
 namespace API.Helpers

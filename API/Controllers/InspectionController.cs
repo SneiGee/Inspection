@@ -1,5 +1,5 @@
 using API.Data;
-using API.Data.Entities;
+using API.Entities;
 using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;

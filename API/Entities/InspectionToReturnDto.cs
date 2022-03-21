@@ -1,4 +1,4 @@
-namespace API.Data.Entities
+namespace API.Entities
 {
     public class InspectionToReturnDto
     {

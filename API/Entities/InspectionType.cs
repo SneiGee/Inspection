@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace API.Data.Entities
+namespace API.Entities
 {
     public class InspectionType
     {

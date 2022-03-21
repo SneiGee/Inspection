@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 using API.Data;
-using API.Data.Entities;
+using API.Entities;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
